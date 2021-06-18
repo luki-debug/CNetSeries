@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.exe
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.deps.json
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.runtimeconfig.json
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.dll
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\ref\NetSeries.dll
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\bin\Debug\net5.0\NetSeries.pdb
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.AssemblyInfo.cs
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.dll
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\ref\NetSeries.dll
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.pdb
+C:\Users\lucas\Documents\Cursos\Projetos BootCamp GFT .NET 06-2021\App simples de Series em Console\NetSeries\obj\Debug\net5.0\NetSeries.genruntimeconfig.cache
