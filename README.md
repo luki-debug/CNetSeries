@@ -1,2 +1,3 @@
-# CNetSeries
-Projeto de seleção de series em Console usando .Net
+# Pratica curso .NET ​ :computer:
+APP em Console de cadastro de series em .NET
+
